@@ -6,6 +6,8 @@
 4)Python  
 5)Flask
 
+OS : ubuntu
+
 ***Info:***
 
 The script starts with VagrantFile which is used to build VM with Docker.
